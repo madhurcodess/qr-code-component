@@ -1,0 +1,33 @@
+body {
+  background: #d5e1ef;
+}
+
+.card {
+  width: 320px;
+  height: 500px;
+  background: white;
+  border: 10px solid white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.132);
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+.text {
+  text-align: center;
+  font-size: 15px;
+}
+
+p {
+  text-decoration: solid gainsboro;
+}
